@@ -1,0 +1,10 @@
+.intro {
+    background-image: url(img/batman-banner.jpeg);
+    background-color: lightgray;
+    background-repeat: no-repeat;
+    width: auto;
+}
+
+body {
+    font-family: 'Mochiy Pop P One', sans-serif !important;
+}
