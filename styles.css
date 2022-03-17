@@ -1,8 +1,9 @@
 .intro {
-    background-image: url(img/batman-banner.jpeg);
+    background: url(img/batman-banner.jpeg) no-repeat;
     background-color: lightgray;
-    background-repeat: no-repeat;
+    background-size: 100% 100%;
     width: auto;
+    height: 900px;
 }
 
 body {
